@@ -1,0 +1,729 @@
+{
+  "users": {
+    "554398232800@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+55 4398232800",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "5511995009737@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+55 11 99500-9737",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "447872274492@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+44 7872 274492",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "18125520222@s.whatsapp.net": {
+      "exp": 14,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+1 812-552-0222",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "5527999963277@s.whatsapp.net": {
+      "exp": 2688,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Thiago",
+      "age": 17,
+      "regTime": 1634766328772,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "554191468589@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+55 4191468589",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "5519996503657@s.whatsapp.net": {
+      "exp": 6361,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Ashborn",
+      "age": 18,
+      "regTime": 1634678065210,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 5,
+      "role": "Beginner",
+      "autolevelup": true,
+      "warn": 0
+    },
+    "5521970045012@s.whatsapp.net": {
+      "exp": 1853,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "𝐶𝐿𝛴𝐼𝑇𝛳𝛱 𝛳𝐹 𝐵𝑈𝐶𝛴𝑇𝛥",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": true,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "5511944664260@s.whatsapp.net": {
+      "exp": 129,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+55 11 94466-4260",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "559481815799@s.whatsapp.net": {
+      "exp": 161,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+55 9481815799",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "556199773883@s.whatsapp.net": {
+      "exp": 47,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "LATX - SHIRO |7|",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "5521972182687@s.whatsapp.net": {
+      "exp": 211,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Null / Shelby☑️✅✔️",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "4915678371762@s.whatsapp.net": {
+      "exp": 127,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "L@TX $H1R0",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    },
+    "508554242@s.whatsapp.net": {
+      "exp": 345,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "'XS",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": true,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false,
+      "warn": 0
+    }
+  },
+  "chats": {
+    "556199773883-1634317092@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "5519996503657@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "556199773883-1633272790@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": true,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "5519996503657-1634680374@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "5519996503657-1634763846@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": true,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "5527999963277@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "4915678371762@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "508554242@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    },
+    "558591417907-1623632031@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 51,
+      "success": 41,
+      "last": 1634869811204,
+      "lastSuccess": 1634869811204
+    },
+    "register.js": {
+      "total": 6,
+      "success": 2,
+      "last": 1634766430299,
+      "lastSuccess": 1634766328773
+    },
+    "creator.js": {
+      "total": 10,
+      "success": 0,
+      "last": 1634865816486,
+      "lastSuccess": 0
+    },
+    "speed.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1634865749781,
+      "lastSuccess": 1634865749781
+    },
+    "autorespon.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1634765706544,
+      "lastSuccess": 1634765706544
+    },
+    "delete.js": {
+      "total": 6,
+      "success": 2,
+      "last": 1634865924764,
+      "lastSuccess": 1634865924764
+    },
+    "listmsg.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634869523891,
+      "lastSuccess": 1634869523891
+    },
+    "addmsg.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1634679693721,
+      "lastSuccess": 0
+    },
+    "play.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634679763329,
+      "lastSuccess": 1634679763329
+    },
+    "yta.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1634679859019,
+      "lastSuccess": 1634679859019
+    },
+    "tomp3.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1634679905808,
+      "lastSuccess": 0
+    },
+    "shaun_the_sheep_photo.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1634679966204,
+      "lastSuccess": 0
+    },
+    "asahotak.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634869632653,
+      "lastSuccess": 1634869632653
+    },
+    "template.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1634869879774,
+      "lastSuccess": 1634869879774
+    },
+    "tictactoe.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1634768208305,
+      "lastSuccess": 1634768208305
+    },
+    "sticker.js": {
+      "total": 38,
+      "success": 5,
+      "last": 1634872130886,
+      "lastSuccess": 1634872130886
+    },
+    "getexif.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634751903399,
+      "lastSuccess": 1634751903399
+    },
+    "enable.js": {
+      "total": 10,
+      "success": 8,
+      "last": 1634765262232,
+      "lastSuccess": 1634765262232
+    },
+    "megumin.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1634765063339,
+      "lastSuccess": 1634765063339
+    },
+    "kick.js": {
+      "total": 10,
+      "success": 7,
+      "last": 1634866117908,
+      "lastSuccess": 1634866117908
+    },
+    "ping.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634865798910,
+      "lastSuccess": 1634865798910
+    },
+    "groupInfo.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1634765826542,
+      "lastSuccess": 1634765826542
+    },
+    "neko.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634765782654,
+      "lastSuccess": 1634765782654
+    },
+    "pengumuman.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634765876148,
+      "lastSuccess": 1634765876148
+    },
+    "online.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1634766026896,
+      "lastSuccess": 1634766026896
+    },
+    "listprem.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634766194332,
+      "lastSuccess": 1634766194332
+    },
+    "addprem.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1634766170258,
+      "lastSuccess": 1634766152464
+    },
+    "anonymous_chat.js": {
+      "total": 27,
+      "success": 21,
+      "last": 1634766552894,
+      "lastSuccess": 1634766552894
+    },
+    "getcode.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1634869521348,
+      "lastSuccess": 1634869521348
+    },
+    "jadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766614197,
+      "lastSuccess": 1634766614197
+    },
+    "stopjadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766704560,
+      "lastSuccess": 1634766704560
+    },
+    "hornycard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766750328,
+      "lastSuccess": 1634766750328
+    },
+    "itssostupid.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766766401,
+      "lastSuccess": 1634766766401
+    },
+    "lolice.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766801961,
+      "lastSuccess": 1634766801961
+    },
+    "runningtext.js": {
+      "total": 5,
+      "success": 1,
+      "last": 1634766876401,
+      "lastSuccess": 1634766876401
+    },
+    "simpcard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766841981,
+      "lastSuccess": 1634766841981
+    },
+    "yt-comment.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766929343,
+      "lastSuccess": 1634766929343
+    },
+    "nulis.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766959254,
+      "lastSuccess": 1634766959254
+    },
+    "nulis2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634766974348,
+      "lastSuccess": 1634766974348
+    },
+    "ht.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1634766989303,
+      "lastSuccess": 0
+    },
+    "readviewonce.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634767046268,
+      "lastSuccess": 1634767046268
+    },
+    "wame.js": {
+      "total": 10,
+      "success": 2,
+      "last": 1634869267923,
+      "lastSuccess": 1634869267923
+    },
+    "nickepep.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634767094176,
+      "lastSuccess": 1634767094176
+    },
+    "anime.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634767171267,
+      "lastSuccess": 1634767171267
+    },
+    "cuty.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634767216451,
+      "lastSuccess": 1634767216451
+    },
+    "cyberpunk.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634767244189,
+      "lastSuccess": 1634767244189
+    },
+    "meme.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634869469316,
+      "lastSuccess": 1634869469316
+    },
+    "wallq.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1634767329855,
+      "lastSuccess": 1634767329855
+    },
+    "hacker.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1634767332456,
+      "lastSuccess": 0
+    },
+    "leaderboard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634767364729,
+      "lastSuccess": 1634767364729
+    },
+    "absen.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1634768438849,
+      "lastSuccess": 1634768438849
+    },
+    "afk.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1634869833583,
+      "lastSuccess": 1634869833583
+    },
+    "waifu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634769297005,
+      "lastSuccess": 1634769297005
+    },
+    "suit.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1634776708576,
+      "lastSuccess": 1634776708576
+    },
+    "add.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1634866126480,
+      "lastSuccess": 1634866126480
+    },
+    "donasi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634865956811,
+      "lastSuccess": 1634865956811
+    },
+    "simsimi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634866002396,
+      "lastSuccess": 1634866002396
+    },
+    "toimg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1634866043345,
+      "lastSuccess": 1634866043345
+    },
+    "getmsg.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1634869571303,
+      "lastSuccess": 0
+    },
+    "nobs.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1634869772602,
+      "lastSuccess": 1634869772602
+    },
+    "tod.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1634870227390,
+      "lastSuccess": 1634870227390
+    },
+    "daretruth.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1634870235186,
+      "lastSuccess": 0
+    },
+    "dare.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1634870235183,
+      "lastSuccess": 1634870235183
+    }
+  },
+  "msgs": {},
+  "sticker": {}
+}
